@@ -11,7 +11,7 @@ For Udacity FEND Nanodegree.
 
 The following game is developed after a frogger game. The player wins the game once they reach the boat.
 
-You may run the game either by cloning and opening the index.html or by following this link.
+You may run the game either by cloning then opening the index.html or by opening this [link](https://rowam.github.io/Arcade-game-FEND/).
 
 ## How to play
 
