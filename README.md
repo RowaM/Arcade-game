@@ -22,7 +22,9 @@ You have to avoid the bugs and reach the boat to win. Either a collision with th
 ## Contributing
 
 w3schools.com
+
 matthewcranford walkthroughs
+
 stack overflow
 
 -------------------------------------------
