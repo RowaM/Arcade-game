@@ -19,4 +19,10 @@ The game is played by moving the hero up, down, left or right. Use the arrow key
 
 You have to avoid the bugs and reach the boat to win. Either a collision with the bugs or water will set you back to initial position.
 
+## Contributing
+
+w3schools.com
+matthewcranford walkthroughs
+stack overflow
+
 -------------------------------------------
